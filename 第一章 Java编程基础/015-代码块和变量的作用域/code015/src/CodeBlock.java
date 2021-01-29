@@ -1,5 +1,9 @@
+package src;
+
 public class CodeBlock {
     public static void main(String[] args) {
+        HashMap<>
+
         int outer = 100;
 
         {
